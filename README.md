@@ -1,13 +1,9 @@
-- 👋 Hi, I’m @Divesh
-- 👀 I’m interested in javascript,react , 
-solidity, Web3 development , protocol development
+🚀 About Me:🌟 Founder of Evelet Token
 
-- 🌱 I’m currently learning 14 language 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :  diveshsarkar70@gmail.com
-- ⚡ Fun fact:no such fun fact about me
+ Blockchain Projects: Built projects like NFT marketplaces, DeFi applications, and crypto wallets.
 
-<!---
-Chainsmoker23/Chainsmoker23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 Tech Stack:Frontend: React.js, HTML, CSS, JavaScript.Backend: Node.js, Express.js.Blockchain: Solidity, Web3.js, Ganache, Truffle.Version Control: Git, GitHub.
+
+🌱 Currently learning advanced Solidity concepts and protocol development.
+
+🎯 Goals:Collaborate on impactful open-source projects.Build groundbreaking Web3 solutions.Share knowledge with the community and grow as a developer.
