@@ -7,8 +7,8 @@ I'm a **Software Researcher** and first-year **MSc Computer Science** student wi
 ## 🧠 Core Skills
 
 - **Smart Contracts:** Solidity, Hardhat, ethers.js  
-- **Backend:** Node.js, Express.js  
-- **Frontend:** React.js, JavaScript (ES6+)  
+-  Node.js, Express.js  
+-  React.js, JavaScript (ES6+)  
 - **Blockchain Tools:** Web3.js, custom Golang-based blockchains  
 - **Cryptography Research:** zk-SNARKs, zkEVM, zkML, FHE  
 - **Databases:** MongoDB
