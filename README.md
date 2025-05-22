@@ -1,92 +1,44 @@
-# Welcome to My GitHub Profile! 
+# 👋 Hi, I'm Divesh Sarkar
 
-## 🚀 About Me
-
-Hi there! I'm a passionate **Blockchain Developer** with expertise in building scalable and efficient decentralized applications. I specialize in creating custom blockchains, writing smart contracts, and developing full-stack blockchain solutions. My goal is to push the boundaries of Web3 technology and empower the next generation of decentralized systems.
+I'm a **Software Researcher** and first-year **MSc Computer Science** student with a strong focus on advanced blockchain technologies. My research interests include Zero-Knowledge Proofs (ZKPs), privacy-preserving smart contracts, and post-quantum cryptographic systems. I aim to develop secure, scalable, and future-ready Web3 infrastructure through practical development and academic innovation.
 
 ---
 
-## 🛠 My Tech Stack
+## 🧠 Core Skills
 
-### 🌐 Frontend Development
-- **React.js**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-- **JavaScript (ES6+)**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🖥 Backend Development
-- **Node.js**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-- **Express.js**  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 📜 Smart Contracts
-- **Solidity**  
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-
-### 📦 Blockchain Development
-- **Custom Blockchain** (Golang-based)  
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-- **Web3.js**  
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3-dot-js&logoColor=white)
-- **ethers.js**  
-![ethers.js](https://img.shields.io/badge/Ethers.js-1C1E21?style=for-the-badge&logo=ethereum&logoColor=white)
-
-### 🗄️ Database
-- **MongoDB**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 💻 Programming Languages
-- **Golang**  
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-- **JavaScript**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **Smart Contracts:** Solidity, Hardhat, ethers.js  
+- **Backend:** Node.js, Express.js  
+- **Frontend:** React.js, JavaScript (ES6+)  
+- **Blockchain Tools:** Web3.js, custom Golang-based blockchains  
+- **Cryptography Research:** zk-SNARKs, zkEVM, zkML, FHE  
+- **Databases:** MongoDB
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Projects
 
-### [🔗 Blockchain Explorer](https://github.com/your-repo/blockchain-explorer)
-A lightweight and efficient blockchain explorer built with React and Node.js for visualizing blocks, transactions, and addresses.
-
-### [💼 Decentralized Marketplace](https://github.com/your-repo/decentralized-marketplace)
-A peer-to-peer marketplace powered by smart contracts on Ethereum. Features include escrow services, secure transactions, and user ratings.
-
-### [⚡ Optimized Blockchain Protocol](https://github.com/your-repo/optimized-blockchain)
-A high-performance custom blockchain written in Go, designed for fast transaction processing and scalability.
+- 🔗 **Blockchain Explorer** – Visualizes blocks and transactions using React + Node  
+- 💼 **Decentralized Marketplace** – Ethereum-based P2P market with smart contracts  
+- ⚡ **Layer 3 Blockchain** – Golang-based chain with native smart contract support
 
 ---
 
-## 📚 Learning and Growth
-I'm constantly expanding my knowledge in:
-- **Consensus Mechanisms**
-- **Zero-Knowledge Proofs (ZKPs)**
-- **Scalability Solutions (Layer 2)**
+## 🔍 Current Focus
+
+- Zero-Knowledge Proofs (ZKPs) & zkML  
+- Fully Homomorphic Encryption (FHE)  
+- Blockchain AI Privacy Architecture  
+- Quantum-Resistant Cryptography
 
 ---
 
-## 📫 Let's Connect
-Feel free to reach out and collaborate!
+## 📫 Contact
 
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- **Twitter**: [Your Twitter](https://twitter.com/your-profile)
-- **GitHub**: [Your GitHub](https://github.com/your-username)
+- **Email:** diveshsarkar70@gmail.com  
+- **GitHub:** [github.com/Chainsmoker23](https://github.com/Chainsmoker23)
 
 ---
 
-## 🧰 Tools & Technologies
+Thanks for visiting my profile! Let’s collaborate on cutting-edge blockchain research and development.
 
-Here are some tools and technologies I work with:
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-Thank you for visiting my profile! Let's build the future of Web3 together. 🌌
 
