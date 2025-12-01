@@ -1,16 +1,16 @@
-# Divesh Sarkar
+# Divesh Sarkar - Position Duration
 
-#Position Duration
 
-Junior engineer 2021
 
-Senior Engineer 2024
+Junior engineer 2021 🤾
 
-Principal Engineer 2026
+Senior Engineer 2024 🥱
 
-PhD Research Scientist 2027
+Principal Engineer 2026 🔥
 
-Senior Scientist 2029
+PhD Research Scientist 2027 💤
+
+Senior Scientist 2029 👍
 
 
 
