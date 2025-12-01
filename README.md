@@ -1,6 +1,6 @@
 # Divesh Sarkar - Position Duration
 
-
+Founder: cubegenai.com
 
 Junior engineer 2021 🤾
 
