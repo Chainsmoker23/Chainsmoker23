@@ -1,4 +1,4 @@
-# Divesh Sarkar, Phd
+# Divesh Sarkar
 
 Junior engineer -- 2021
 
