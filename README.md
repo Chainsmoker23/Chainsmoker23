@@ -1,2 +1,1 @@
-## Engineer  2021
-## Senior Engineer 2026
+## trust me I'm not an engineer 🙉
