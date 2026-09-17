@@ -1,1 +1,1 @@
-## Multidisciplinary Researcher 🙈
+## Multidisciplinary Researcher
